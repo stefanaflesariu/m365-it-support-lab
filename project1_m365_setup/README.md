@@ -10,6 +10,6 @@
 7. Überprüfung der Rechte im Admin Center
 
 ## Screenshot(s)
-- users_list.png
-- shared_folder_invite.png
-- shared_folder_access.png
+- users_list.png - ![Benutzerliste](Screenshots/users_list.png)
+- shared_folder_invite.png - ![Ordner geteilt](Screenshots/shared_folder_invite.png)
+- shared_folder_access.png - ![Ordnerzugriff](Screenshots/shared_folder_access.png)

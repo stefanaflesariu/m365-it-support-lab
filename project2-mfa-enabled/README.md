@@ -11,7 +11,7 @@
 6. Benutzer konnte sich erfolgreich anmelden und neues Passwort setzen
 
 ### Screenshot
-- reset_password_maria.png
+- reset_password_maria.png -![Password reset für Maria](Screenshots/reset_password_maria.png)  
 
 ##  Teil 2 – Multi-Factor Authentication (Thomas Keller)
 
@@ -24,5 +24,5 @@
 6. Login erfolgreich getestet  
 
 ### Screenshot
-- mfa_enabled_thomas.png
+- mfa_enabled_thomas.png - ![MFA für Thomas aktiviert](Screenshots/mfa_enabled_thomas.png)  
 
